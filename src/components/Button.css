@@ -1,0 +1,24 @@
+.submit-button {
+  padding: 8px 20px;
+  border-radius: 0 10px 10px 0;
+  background-image: linear-gradient(
+85deg
+,#005cff,#0050ff);
+  font-family: 'Source Sans Pro',sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+}
+.w-button {
+  display: inline-block;
+  width: 121px;
+    height: 45px;
+  padding: 9px 15px;
+  background-color: #3898ec;
+  color: #fff;
+  border: 0;
+  line-height: inherit;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 0;
+}
